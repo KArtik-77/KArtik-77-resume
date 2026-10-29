@@ -1,0 +1,403 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 5 0 R /F2 6 0 R /F3 7 0 R >> >> /Contents 4 0 R >>
+endobj
+4 0 obj
+<< /Length 8925 >>
+stream
+0.13 0.26 0.47 rg
+BT
+/F2 20 Tf
+1 0 0 1 207.13 732 Tm
+(KARTIK NITTURKAR) Tj
+ET
+BT
+/F2 8.5 Tf
+1 0 0 1 54.442499999999995 717.5 Tm
+(Business Intelligence Analyst | Data Warehousing & Dimensional Modeling | Advanced SQL | Python | Dashboards & Metrics) Tj
+ET
+0 0 0 rg
+0.2 0.2 0.2 rg
+BT
+/F1 8 Tf
+1 0 0 1 106.02799999999999 706.5 Tm
+(Bengaluru, India | +91 8088965776 | kartiknitturkar777@gmail.com | LinkedIn: Kartik Nitturkar | GitHub: kartik496) Tj
+ET
+0.13 0.26 0.47 RG
+1.2 w
+46 700.5 m 566 700.5 l S
+0.13 0.26 0.47 rg
+BT
+/F2 9.5 Tf
+1 0 0 1 46 679 Tm
+(PROFESSIONAL SUMMARY) Tj
+ET
+0.13 0.26 0.47 RG
+0.6 w
+46 677 m 566 677 l S
+0 0 0 rg
+BT
+/F1 8.3 Tf
+1 0 0 1 46 659.7 Tm
+(Business Intelligence Analyst with 2+ years at Amazon delivering enterprise-grade BI solutions - dimensional data modeling, data warehouse) Tj
+ET
+BT
+/F1 8.3 Tf
+1 0 0 1 46 649.1 Tm
+(design, advanced SQL, and Python-powered analytics. Deep expertise in star/snowflake schema, fact and dimension tables, SCD handling,) Tj
+ET
+BT
+/F1 8.3 Tf
+1 0 0 1 46 638.5 Tm
+(and ETL pipeline development, paired with a strong command of Tableau, Power BI, and end-to-end dashboard delivery. Skilled at translating) Tj
+ET
+BT
+/F1 8.3 Tf
+1 0 0 1 46 627.9 Tm
+(complex business requirements into scalable warehouse architectures and self-service BI products. Gold-Badge SQL performer \(HackerRank) Tj
+ET
+BT
+/F1 8.3 Tf
+1 0 0 1 46 617.3 Tm
+(819\) and published author on Python/SQL in data science workflows.) Tj
+ET
+0.13 0.26 0.47 rg
+BT
+/F2 9.5 Tf
+1 0 0 1 46 599.4999999999999 Tm
+(TECHNICAL SKILLS) Tj
+ET
+0.13 0.26 0.47 RG
+0.6 w
+46 597.4999999999999 m 566 597.4999999999999 l S
+0 0 0 rg
+BT
+/F2 8.3 Tf
+1 0 0 1 46 580.1999999999999 Tm
+(Advanced SQL & Databases: ) Tj
+ET
+BT
+/F1 8.3 Tf
+1 0 0 1 162.2332 580.1999999999999 Tm
+(MySQL, PostgreSQL, SQL Server - CTEs, window functions, multi-table joins, subqueries, stored procedures,) Tj
+ET
+BT
+/F1 8.3 Tf
+1 0 0 1 46 569.5999999999999 Tm
+(indexing & query optimization, large-scale data extraction, aggregation pipelines) Tj
+ET
+BT
+/F2 8.3 Tf
+1 0 0 1 46 556.9999999999999 Tm
+(Data Warehousing & Modeling: ) Tj
+ET
+BT
+/F1 8.3 Tf
+1 0 0 1 170.97310000000002 556.9999999999999 Tm
+(Star/snowflake schema, fact & dimension tables, SCD Type-1/2, surrogate keys, OLAP/OLTP design,) Tj
+ET
+BT
+/F1 8.3 Tf
+1 0 0 1 46 546.3999999999999 Tm
+(conformed dimensions, staging/integration/presentation layers) Tj
+ET
+BT
+/F2 8.3 Tf
+1 0 0 1 46 533.7999999999998 Tm
+(Python: ) Tj
+ET
+BT
+/F1 8.3 Tf
+1 0 0 1 79.2 533.7999999999998 Tm
+(Pandas, NumPy, Matplotlib, Seaborn, scikit-learn, XGBoost - data wrangling, ETL scripting, feature engineering, statistical analysis) Tj
+ET
+BT
+/F1 8.3 Tf
+1 0 0 1 46 523.1999999999998 Tm
+(\(hypothesis testing, regression, A/B testing\)) Tj
+ET
+BT
+/F2 8.3 Tf
+1 0 0 1 46 510.59999999999974 Tm
+(BI & Visualization: ) Tj
+ET
+BT
+/F1 8.3 Tf
+1 0 0 1 120.71660000000001 510.59999999999974 Tm
+(Tableau \(LOD expressions, calculated fields, drill-downs, KPI scorecards\), Power BI \(DAX measures, time-intelligence,) Tj
+ET
+BT
+/F1 8.3 Tf
+1 0 0 1 46 499.9999999999997 Tm
+(star-schema models, Power Query/M, RLS, paginated reports\), Looker Studio, QlikView) Tj
+ET
+BT
+/F2 8.3 Tf
+1 0 0 1 46 487.3999999999997 Tm
+(ETL & Data Engineering: ) Tj
+ET
+BT
+/F1 8.3 Tf
+1 0 0 1 145.6166 487.3999999999997 Tm
+(End-to-end ETL design \(batch & incremental\), staging layer management, pipeline optimization, data quality \(null) Tj
+ET
+BT
+/F1 8.3 Tf
+1 0 0 1 46 476.79999999999967 Tm
+(handling, deduplication, referential integrity\), data lineage documentation, AWS) Tj
+ET
+0.13 0.26 0.47 rg
+BT
+/F2 9.5 Tf
+1 0 0 1 46 456.99999999999966 Tm
+(WORK EXPERIENCE) Tj
+ET
+0.13 0.26 0.47 RG
+0.6 w
+46 454.99999999999966 m 566 454.99999999999966 l S
+0 0 0 rg
+0 0 0 rg
+BT
+/F2 9 Tf
+1 0 0 1 46 436.99999999999966 Tm
+(ML Data Associate II - Business Intelligence & Data Warehousing  -  Amazon) Tj
+ET
+0.3 0.3 0.3 rg
+BT
+/F1 8 Tf
+1 0 0 1 434.072 436.99999999999966 Tm
+(Oct 2024 - Present | Bengaluru, India) Tj
+ET
+0 0 0 rg
+BT
+/F1 8.3 Tf
+1 0 0 1 46 426.69999999999965 Tm
+(-) Tj
+ET
+BT
+/F1 8.3 Tf
+1 0 0 1 54 426.69999999999965 Tm
+(Designed enterprise dimensional data models \(star/snowflake schema, fact & dimension tables, SCD Type-2, surrogate key management\);) Tj
+ET
+BT
+/F1 8.3 Tf
+1 0 0 1 54 416.29999999999967 Tm
+(partnered with data engineering to align DW architecture with enterprise-wide analytical and reporting needs.) Tj
+ET
+BT
+/F1 8.3 Tf
+1 0 0 1 46 405.8999999999997 Tm
+(-) Tj
+ET
+BT
+/F1 8.3 Tf
+1 0 0 1 54 405.8999999999997 Tm
+(Authored and optimized advanced SQL - CTEs, window functions, multi-table joins, stored procedures, subqueries, indexing - to extract,) Tj
+ET
+BT
+/F1 8.3 Tf
+1 0 0 1 54 395.4999999999997 Tm
+(transform, and load large-scale datasets; reduced query run-time by 35% via index redesign and query rewrites.) Tj
+ET
+BT
+/F1 8.3 Tf
+1 0 0 1 46 385.09999999999974 Tm
+(-) Tj
+ET
+BT
+/F1 8.3 Tf
+1 0 0 1 54 385.09999999999974 Tm
+(Developed Python \(Pandas, NumPy\) ETL pipelines for batch and incremental loads - null handling, deduplication, referential integrity -) Tj
+ET
+BT
+/F1 8.3 Tf
+1 0 0 1 54 374.69999999999976 Tm
+(reducing data-prep cycle by 40%; built validation frameworks maintaining 98%+ accuracy across all BI platforms.) Tj
+ET
+BT
+/F1 8.3 Tf
+1 0 0 1 46 364.2999999999998 Tm
+(-) Tj
+ET
+BT
+/F1 8.3 Tf
+1 0 0 1 54 364.2999999999998 Tm
+(Built and maintained enterprise Tableau and Power BI dashboards - DAX time-intelligence, KPI cards, drill-throughs, RLS - delivering) Tj
+ET
+BT
+/F1 8.3 Tf
+1 0 0 1 54 353.8999999999998 Tm
+(self-service analytics to 10+ stakeholder groups; automated 8+ recurring reports saving ~120 analyst-hours/month.) Tj
+ET
+BT
+/F1 8.3 Tf
+1 0 0 1 46 343.49999999999983 Tm
+(-) Tj
+ET
+BT
+/F1 8.3 Tf
+1 0 0 1 54 343.49999999999983 Tm
+(Produced comprehensive DW documentation \(architecture diagrams, ETL mapping specs, data dictionaries\); mentored 2-3 analysts on) Tj
+ET
+BT
+/F1 8.3 Tf
+1 0 0 1 54 333.09999999999985 Tm
+(SQL, Python, and dimensional modeling best practices; maintained 98%+ quality scores across all deliverables.) Tj
+ET
+0.13 0.26 0.47 rg
+BT
+/F2 9.5 Tf
+1 0 0 1 46 311.4999999999999 Tm
+(PROJECTS) Tj
+ET
+0.13 0.26 0.47 RG
+0.6 w
+46 309.4999999999999 m 566 309.4999999999999 l S
+0 0 0 rg
+0 0 0 rg
+BT
+/F2 9 Tf
+1 0 0 1 46 291.4999999999999 Tm
+(Enterprise Data Warehouse & ETL Pipeline - E-Commerce Analytics) Tj
+ET
+0.3 0.3 0.3 rg
+BT
+/F1 8 Tf
+1 0 0 1 494.4 291.4999999999999 Tm
+(Jul 2023 - Aug 2023) Tj
+ET
+0 0 0 rg
+0.25 0.25 0.25 rg
+BT
+/F3 7.8 Tf
+1 0 0 1 46 281.6999999999999 Tm
+(Python - Advanced SQL - Star Schema - Dimensional Modeling - SCD Type-2 - ETL - Tableau - Power BI) Tj
+ET
+0 0 0 rg
+BT
+/F1 8.3 Tf
+1 0 0 1 46 270.89999999999986 Tm
+(-) Tj
+ET
+BT
+/F1 8.3 Tf
+1 0 0 1 54 270.89999999999986 Tm
+(Designed end-to-end DW architecture \(star schema: 4 fact tables, 12 dimension tables, SCD Type-2, surrogate keys\) on 5,500+ records;) Tj
+ET
+BT
+/F1 8.3 Tf
+1 0 0 1 54 260.4999999999999 Tm
+(built Python & SQL ETL across staging-integration-presentation layers - 30% quality improvement; delivered Tableau KPI dashboards and) Tj
+ET
+BT
+/F1 8.3 Tf
+1 0 0 1 54 250.0999999999999 Tm
+(Power BI reports with full DW documentation.) Tj
+ET
+0 0 0 rg
+BT
+/F2 9 Tf
+1 0 0 1 46 234.99999999999991 Tm
+(Predictive Analytics Data Mart - Customer Lifecycle & Marketing Intelligence) Tj
+ET
+0.3 0.3 0.3 rg
+BT
+/F1 8 Tf
+1 0 0 1 495.736 234.99999999999991 Tm
+(Jun 2023 - Jul 2023) Tj
+ET
+0 0 0 rg
+0.25 0.25 0.25 rg
+BT
+/F3 7.8 Tf
+1 0 0 1 46 225.1999999999999 Tm
+(Python \(Pandas, NumPy, XGBoost\) - SQL - Snowflake Schema - ETL - Feature Engineering - Power BI - DAX) Tj
+ET
+0 0 0 rg
+BT
+/F1 8.3 Tf
+1 0 0 1 46 214.3999999999999 Tm
+(-) Tj
+ET
+BT
+/F1 8.3 Tf
+1 0 0 1 54 214.3999999999999 Tm
+(Owned full lifecycle for a customer analytics data mart - snowflake schema, Python ETL on 10,000+ records, 20+ engineered features,) Tj
+ET
+BT
+/F1 8.3 Tf
+1 0 0 1 54 203.9999999999999 Tm
+(XGBoost scoring \(AUC-ROC=0.91\); built Power BI dashboard \(12+ DAX measures: churn rate, CLTV, campaign ROI\) enabling) Tj
+ET
+BT
+/F1 8.3 Tf
+1 0 0 1 54 193.59999999999988 Tm
+(near-real-time marketing action.) Tj
+ET
+0.13 0.26 0.47 rg
+BT
+/F2 9.5 Tf
+1 0 0 1 46 171.9999999999999 Tm
+(EDUCATION, CERTIFICATIONS & AWARDS) Tj
+ET
+0.13 0.26 0.47 RG
+0.6 w
+46 169.9999999999999 m 566 169.9999999999999 l S
+0 0 0 rg
+BT
+/F1 8.3 Tf
+1 0 0 1 46 152.69999999999987 Tm
+(PES University, Bengaluru - BTech, Mechanical Engineering | CGPA: 6.49 | Aug 2023) Tj
+ET
+BT
+/F1 8.3 Tf
+1 0 0 1 46 141.89999999999986 Tm
+(HackerRank Gold Badge: SQL \(Score 819\) & Python \(Score 535\) | SQL Cert \(Jun 2023\), Python Cert \(Jul 2023\)) Tj
+ET
+BT
+/F1 8.3 Tf
+1 0 0 1 46 131.09999999999985 Tm
+(Full Stack Data Science - AlmaBetter, Nov 2023 \(Data Warehousing, ETL, Dimensional Modeling, Advanced SQL, Python, Power BI,) Tj
+ET
+BT
+/F1 8.3 Tf
+1 0 0 1 46 120.29999999999986 Tm
+(Tableau\)) Tj
+ET
+BT
+/F1 8.3 Tf
+1 0 0 1 46 109.49999999999986 Tm
+(Publication: "The Importance of Python and SQL in Data Science" - Online, Mar 2023) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica /Encoding /WinAnsiEncoding >>
+endobj
+6 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding >>
+endobj
+7 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Oblique /Encoding /WinAnsiEncoding >>
+endobj
+xref
+0 8
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000261 00000 n 
+0000009238 00000 n 
+0000009335 00000 n 
+0000009437 00000 n 
+trailer
+<< /Size 8 /Root 1 0 R >>
+startxref
+9542
+%%EOF
